@@ -25,3 +25,6 @@ int main()
     cout<<"ELement not FOund . ";
     return 0;
 }
+
+//Time Complexity :- Best : O(1)
+                //  Worst : O(n)
